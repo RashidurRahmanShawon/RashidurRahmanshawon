@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33844709/README.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:241800,100:593900&height=210&section=header&text=Rashidur%20Rahman%20Shawon&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Apps%20%7C%20Automation%20%7C%20Discord%20Bots&descAlignY=60&descColor=f59e0b&animation=fadeIn" width="100%" alt="Profile banner" />
